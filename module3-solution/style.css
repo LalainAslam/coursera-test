@@ -1,0 +1,99 @@
+*
+{
+	box-sizing: border-box;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #ccc8be;
+  border-radius: 0;
+  border: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+.tags {
+	text-align: center;
+	text-decoration: none;
+
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { 
+font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+
+#list-group {
+  margin-top: -10px;
+}
+#list-group a {
+  color: black;
+  text-align: center;
+  margin-top: 0;
+}
+#list-group a:hover {
+  text-decoration: none;
+  color: white;
+}
+#list-group a {
+  font-size: 1.8em;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: 1px;
+  padding-top: 2px;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+h2
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight: bold;
+}
+
+.main
+{
+		background-color: #ccc8be;
+		margin: 20, 10, 10, 10;
+
+
+}
+
+h3
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	padding-top: -10px;
+	font-weight: bold;
+
+}
+
+.main p
+{
+	background-color: #ccc8be;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight: bold;
+	margin: 10px;
+	padding: 10px;
+}
+
+  
